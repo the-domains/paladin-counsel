@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Do you need to know about Financial Service licenses? Are funds tight? We can help...
-datePublished: '2016-02-08T23:33:51.809Z'
-dateModified: '2016-02-08T23:33:46.756Z'
+datePublished: '2016-02-08T23:43:15.758Z'
+dateModified: '2016-02-08T23:43:05.619Z'
 title: Are you a StartUp?
 author: []
 sourcePath: _posts/2016-02-08-are-you-a-startup.md
