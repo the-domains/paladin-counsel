@@ -1,7 +1,7 @@
 name: Paladin Counsel
 favicon: null
-layout_spectrum: 0.22758
-typography_spectrum: 0.72401
+layout_spectrum: 1
+typography_spectrum: 0.87005
 title: Paladin-Counsel.com
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#9D2D3C'
-    - '#DDE4DD'
-    - '#BCAB47'
-    - '#6B574B'
-    - '#160600'
-  brandStrength: 0.9051179599482566
-  lightness: 0.07024068641476333
-  saturation: 0.678565603448078
-  rhythmicContrast: 0.31631116988137364
+    - '#7f5b00'
+    - '#fefffc'
+    - '#bda557'
+    - '#ac8d35'
+    - '#decea2'
+  brandStrength: 0.75
+  lightness: 0.5625
+  saturation: 0.75
+  rhythmicContrast: 0.75
 purpose: []
