@@ -1,36 +1,40 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
-description: ''
-datePublished: '2016-02-08T21:28:53.851Z'
-dateModified: '2016-02-08T21:28:35.585Z'
+description: Help you get authorised and help you maintain that authorisation...
+datePublished: '2016-02-08T22:14:44.029Z'
+dateModified: '2016-02-08T22:14:40.022Z'
 title: What do we do?
 author: []
+sourcePath: _posts/2016-02-08-what-do-we-do.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-02-08-what-do-we-do.md
-published: true
 url: what-do-we-do/index.html
-_type: Article
+_type: WebPage
 
 ---
-**Initial Research**
+******Initial Research******
 
 We 
-can help you answer the following questions:  
+can help you answer the following questions:
+
 Do you need 
-authorisation?  
-Which law would apply to you?  
+authorisation?
+
+Which law would apply to you?
+
 Is this 
-jurisdiction right for you?  
+jurisdiction right for you?
+
 **License 
 Applications**  
 This includes analysing the requirements for your 
@@ -40,14 +44,11 @@ the regulator will forward once they have reviewed your application for
 authorisation
 
 **Post 
-Authorisation - Outsourced Compliance Function**
-
-Regulated 
+Authorisation - Outsourced Compliance Function**Regulated 
 business must maintain a Risk and Compliance function. The minimum requirement 
-here would be a燙ompliance Officer and assistant which will costaround €130,000 
+here would be a Compliance Officer and assistant which will cost around €130,000 
 per annum. You could outsource this function for a small fraction of 
-this.  
-**Other Services:**
+this.
 
 * Non-Executive 
 Director
