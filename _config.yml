@@ -1,6 +1,6 @@
 name: Paladin Counsel
 favicon: null
-layout_spectrum: 0.48391
+layout_spectrum: 0.76609
 typography_spectrum: 0.87005
 title: Paladin-Counsel.com
 cta:
@@ -22,8 +22,8 @@ color:
     - '#bda557'
     - '#ac8d35'
     - '#decea2'
-  brandStrength: 0.75
-  lightness: 0.5625
-  saturation: 0.6875
-  rhythmicContrast: 0.75
+  brandStrength: 0.6875
+  lightness: 0.4375
+  saturation: 0.5
+  rhythmicContrast: 0.25
 purpose: []
