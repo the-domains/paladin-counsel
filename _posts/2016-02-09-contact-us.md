@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: 'Gareth.Walsh [at] Paladin-Counsel.com'
-datePublished: '2016-04-27T17:34:43.249Z'
-dateModified: '2016-04-27T17:34:42.735Z'
+datePublished: '2016-04-27T17:38:28.207Z'
+dateModified: '2016-04-27T17:37:16.738Z'
 title: ''
 author:
   - name: ''
@@ -24,8 +24,6 @@ url: contact-us/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6f14bc4f-06b0-48c3-9754-457788111131.png)
-
 Gareth.Walsh \[at\] Paladin-Counsel.com
 
 UK +44 20 3289 9174
