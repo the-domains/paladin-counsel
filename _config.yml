@@ -1,29 +1,41 @@
-name: Paladin Counsel
-favicon: null
-layout_spectrum: 1
-typography_spectrum: 0.87005
 title: Paladin-Counsel.com
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
+  saturation: 0.5
+  brandStrength: 0.5625
+  rhythmicContrast: 0.75
   brandColors:
     - '#7f5b00'
     - '#fefffc'
     - '#bda557'
     - '#ac8d35'
     - '#decea2'
-  brandStrength: 0.5625
   lightness: 0.5
-  saturation: 0.5
-  rhythmicContrast: 0.75
-purpose: []
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+name: Paladin Counsel
+favicon: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+typography_spectrum: 0.87005
+layout_spectrum: 0.485589
