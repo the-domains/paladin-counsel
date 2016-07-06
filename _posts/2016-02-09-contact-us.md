@@ -5,20 +5,15 @@ inNav: true
 inLanguage: null
 keywords: []
 description: 'Gareth.Walsh [at] Paladin-Counsel.com'
-datePublished: '2016-04-27T17:38:28.207Z'
-dateModified: '2016-04-27T17:37:16.738Z'
+datePublished: '2016-07-06T01:05:42.668Z'
+dateModified: '2016-07-06T01:04:00.649Z'
 title: ''
 author:
   - name: ''
     url: ''
 sourcePath: _posts/2016-02-09-contact-us.md
-published: true
 authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
+publisher: null
 starred: false
 url: contact-us/index.html
 _type: Article
@@ -29,4 +24,3 @@ Gareth.Walsh \[at\] Paladin-Counsel.com
 UK +44 20 3289 9174
 
 Ireland +353 87 9215462
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2edab1d2-a947-4a01-aab0-fb40a3980a6f.png)
