@@ -31,11 +31,11 @@ analytics:
   twitter: null
   google: null
   facebook: null
-name: Paladin Counsel
 favicon: null
+name: Paladin Counsel
 opengraph:
   image: null
   type: null
   appId: null
 typography_spectrum: 0.87005
-layout_spectrum: 0.485589
+layout_spectrum: 0.1735589
